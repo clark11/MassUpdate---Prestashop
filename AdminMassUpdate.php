@@ -23,7 +23,7 @@ class AdminMassUpdate extends AdminTab
 {
 	private $_tabClass = 'AdminMassUpdate';
 	private $_module = 'massupdate';
-    private $_modulePath = '';
+        private $_modulePath = '';
 	private $_html = '';
 	private $_id_lang;
 	private $_defaultLanguage;
@@ -527,6 +527,7 @@ class AdminMassUpdate extends AdminTab
 		global $cookie;
 		$employee = new Employee((int) $cookie->id_employee);
 		return (int) $employee->id_profile == 1 || $employee->id_profile == 3 || $employee->id_profile == 2 || $employee->id_profile == 4;
+                //here some id_profile can use this plugin
 	}
 	
 	private function _getImages($productId, $id_lang)

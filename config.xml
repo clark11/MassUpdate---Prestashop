@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>massupdate</name>
+            <displayName><![CDATA[Mass Update]]></displayName>
+            <version><![CDATA[1.6]]></version>
+            <description><![CDATA[Perform mass updates on all your products (price, weight, and features)]]></description>
+            <author><![CDATA[]]></author>
+            <tab><![CDATA[administration]]></tab>
+	<confirmUninstall>Aww... are you sure you want to delete me?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

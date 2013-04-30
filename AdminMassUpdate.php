@@ -4,7 +4,7 @@
  * MassUpdate for PrestaShopª 1.5.3.1 
  * #CODE REFACTORING 2013 BY CLKWEB.IT - CLAUDIO CASUCCIO DEVELOPER
  * 
- * Original module author: David T Baker (details @ massupdate.php)
+ * Original module author: David T Baker 
  * Tab author: Bob Claassen
  * Web: http://www.bnc-automatisering.nl
  * Email: bc@bnc-automatisering.nl

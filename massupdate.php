@@ -11,6 +11,10 @@
  * Email: bc@bnc-automatisering.nl
  * Update date: 2011-12-28
  *
+ * 2013 Updated by: Claudio Casuccio
+ * Web: http://claudiocasuccio.it  
+ * http://clkweb.it
+ * 
  * File: massupdate.php
  * Provides:
  *  Ability to perform mass updates on products..
